@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: "522d-31-61-164-76.ngrok.io"
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
